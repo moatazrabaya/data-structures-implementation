@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="CA_LinkedList/CA_LinkedList.csproj" />
   <Project Path="CA_List/CA_List.csproj" />
+  <Project Path="CA_Queue/CA_Queue.csproj" />
   <Project Path="CA_Stack/CA_Stack.csproj" />
 </Solution>
